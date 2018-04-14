@@ -1,1 +1,3 @@
 Inital Text for Third LocalFile in MasterBranch
+
+Changes in Branch2
