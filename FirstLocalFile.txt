@@ -1,1 +1,3 @@
 Inital Text for FirstLocalFile in MasterBranch
+
+Some changes to 1st local file.
